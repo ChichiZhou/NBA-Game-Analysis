@@ -1,0 +1,4 @@
+1. Unzip 01.01.2016.CHA.at.TOR.7z
+2. Change the data path in merge.py, score_info.py and pbp.py
+3. Excute Run.py to show animation
+4. Excute show.py to get velocity and spacing area graph
